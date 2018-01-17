@@ -265,7 +265,7 @@ p + div {
 - 参考资料
   - [如何提升 CSS 选择器性能](https://www.jianshu.com/p/268c7f3dd7a6)
   - [CSS选择器的优化](https://www.w3cplus.com/css/css-selector-performance)
-  - [Efficiently Rendering CSS(https://css-tricks.com/efficiently-rendering-css/)
+  - [Efficiently Rendering CSS](https://css-tricks.com/efficiently-rendering-css/)
 
 
 #### 参考链接
